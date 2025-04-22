@@ -1,4 +1,4 @@
-# bookbot
+# BookBot
 BookBot, a simple word and character count of books (txt) format.
 
 ## Usage
